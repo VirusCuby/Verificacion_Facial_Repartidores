@@ -6,7 +6,7 @@ Proyecto desarrollado como parte del curso **Percepción y Visión por Computado
 
 ---
 
-## 🚀 Características principales
+##  Características principales
 
 -  Captura de video en tiempo real desde la cámara  
 -  Detección y verificación facial  
